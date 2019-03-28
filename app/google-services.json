@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "747336331890",
+    "firebase_url": "https://employeetask-288ca.firebaseio.com",
+    "project_id": "employeetask-288ca",
+    "storage_bucket": "employeetask-288ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747336331890:android:5719d8384f8d5944",
+        "android_client_info": {
+          "package_name": "com.ticket.bus.employeetaskplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747336331890-mdpgjv7s1n11qrcbcqt8f6dn80tdn5s2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ticket.bus.employeetaskplanner",
+            "certificate_hash": "aa8c61626a91737072184ebf4521395c3af4fece"
+          }
+        },
+        {
+          "client_id": "747336331890-5d1dlnpdec4nkps61jlarv598m113464.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmADWFYwUPcv0J8MAUIJguOvOmmZ9MWjo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747336331890-5d1dlnpdec4nkps61jlarv598m113464.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
